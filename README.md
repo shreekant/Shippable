@@ -7,5 +7,4 @@ Your UI should display a table with the following information
 - Number of open issues that were opened more than 24 hours ago but less than 7 days ago
 - Number of open issues that were opened more than 7 days ago 
 
-Deploy your application to Heroku or similar platform. 
-https://countissues.herokuapp.com/
+Deploy your application to Heroku or similar platform ::: https://countissues.herokuapp.com/
