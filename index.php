@@ -1,10 +1,10 @@
 <html>
 <head>
-<title>WelCome - Count open isseues in GitHub repository</title>
+<title>WelCome - Count open issues in GitHub repository</title>
 </head>
 <body>
 <form action="" method="POST">
-<h2>Count open isseues in GitHub repository</h2>
+<h2>Count open issues in GitHub repository</h2>
 <input type="text" name="url" placeholder="Full URL of GitHub repository" size="60">
 <input type="submit" name="submitButton">
 </form>
