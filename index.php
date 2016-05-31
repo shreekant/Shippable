@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>WelCome</title>
+<title>WelCome - Count open isseues in GitHub repository</title>
 </head>
 <body>
 <form action="" method="POST">
